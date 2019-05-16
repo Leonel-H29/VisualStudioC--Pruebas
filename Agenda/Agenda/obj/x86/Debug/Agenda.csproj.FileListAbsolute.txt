@@ -1,0 +1,5 @@
+C:\Users\Aldo Herrera\Desktop\Taller\Agenda\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Aldo Herrera\Desktop\Taller\Agenda\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Aldo Herrera\Desktop\Taller\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\Aldo Herrera\Desktop\Taller\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\Aldo Herrera\Desktop\Taller\Agenda\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache
